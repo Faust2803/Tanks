@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab2f22b9a01ec594cb1261edcfdd8f7b, type: 3}
+  m_Name: SoInstaller
+  m_EditorClassIdentifier: 
+  _windowsConfig: {fileID: 11400000, guid: dddbed3935b2f6d479e8d5cad28c07a9, type: 2}
+  _panelConfig: {fileID: 11400000, guid: ac1fb1ca9b4622447b0a746bc6a613d6, type: 2}
+  _tanksConfig: {fileID: 11400000, guid: a4b8a03a0cfbc3b43acce4c7deca0650, type: 2}
+  _colorConfig: {fileID: 11400000, guid: db79461a28fda3f44bd235bd3fee198c, type: 2}
+  _levelConfig: {fileID: 11400000, guid: f1b67b04acdd5b84690f480b2cfb5c2d, type: 2}

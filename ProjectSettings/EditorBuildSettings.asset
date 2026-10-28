@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Tanks/Load/Load.unity
+    guid: 1a8d594f0b463e144a383add780d9d06
+  - enabled: 1
+    path: Assets/Tanks/Lobby/Lobby.unity
+    guid: d2a1ee5b70ab3e346895f48a6c012f80
+  - enabled: 1
+    path: Assets/Tanks/Game/Game.unity
+    guid: f0a336c4c8f9d33438feb76d05c1dec5
+  - enabled: 1
+    path: Assets/Tanks/NetGame/NetGame.unity
+    guid: af960f5636d9ef148be71345092ec681
+  m_configObjects:
+    com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 7fb6c1c790fa04865b379a6e8ccd7e9c, type: 3}

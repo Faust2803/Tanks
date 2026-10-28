@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68ffc83097a74e8e8384ab512a76bacf, type: 3}
+  m_Name: TanksConfig
+  m_EditorClassIdentifier: Assembly-CSharp::SO.Scripts.TanksConfig
+  _tanksList:
+  - Id: 0
+    Name: Tank
+    Prefab: {fileID: 2231010766110990468, guid: 0fa093c737c648d4e8c2c3c1032e8cb5, type: 3}
+    Prise: 0
+    ShowInShop: 0
+  - Id: 1
+    Name: Medium
+    Prefab: {fileID: 2231010766110990468, guid: 0fa093c737c648d4e8c2c3c1032e8cb5, type: 3}
+    Prise: 0
+    ShowInShop: 0
+  - Id: 2
+    Name: Heavy
+    Prefab: {fileID: 6702749873057120371, guid: 222ce7d2b4f8dd14189cd883605ff000, type: 3}
+    Prise: 0
+    ShowInShop: 0
+  - Id: 3
+    Name: ATV
+    Prefab: {fileID: 8633640389770658372, guid: 1147d6b2438781d47b57e1f086665d49, type: 3}
+    Prise: 0
+    ShowInShop: 0
+  - Id: 4
+    Name: Shark
+    Prefab: {fileID: 5808083787251776068, guid: d618f2c12003ad74ba60ddd3e0bb2cd3, type: 3}
+    Prise: 200
+    ShowInShop: 1
+  - Id: 5
+    Name: Tank 2
+    Prefab: {fileID: 109305330120004129, guid: 4848622ac62999f48ac1eef5143ed836, type: 3}
+    Prise: 100
+    ShowInShop: 1
+  - Id: 6
+    Name: Heavy 2
+    Prefab: {fileID: 6702749873057120371, guid: 222ce7d2b4f8dd14189cd883605ff000, type: 3}
+    Prise: 300
+    ShowInShop: 1
+  - Id: 7
+    Name: Shark 2
+    Prefab: {fileID: 5808083787251776068, guid: d618f2c12003ad74ba60ddd3e0bb2cd3, type: 3}
+    Prise: 350
+    ShowInShop: 1

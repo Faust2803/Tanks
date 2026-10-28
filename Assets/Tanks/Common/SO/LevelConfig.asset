@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8b072d2574aff245bd55483212e5b69, type: 3}
+  m_Name: LevelConfig
+  m_EditorClassIdentifier: Assembly-CSharp::SO.Scripts.LevelConfig
+  _levelConfigList:
+  - Id: 0
+    Name: Level Desert
+    LevelPrefab: {fileID: 279136632516774056, guid: aa168f4a63daac34cb2f04f4a7dc4ac0, type: 3}
+    Active: 0
+  - Id: 1
+    Name: Level Jungle
+    LevelPrefab: {fileID: 3862325433235379392, guid: 04590977436f6c74d96372b0aa596502, type: 3}
+    Active: 0
+  - Id: 2
+    Name: Level Moon
+    LevelPrefab: {fileID: 8952948745388623893, guid: 1a5282311cebeeb4da7f2a8b39d30be9, type: 3}
+    Active: 0
